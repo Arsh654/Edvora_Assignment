@@ -1,0 +1,26 @@
+.LinksContainer {
+  margin-left: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.Links {
+  color: #d0cbcb;
+  font-size: 18px;
+  text-decoration: none;
+  margin-right: 20px;
+  font-weight: 600;
+}
+.Links:hover {
+  color: #fff;
+  font-size: 18px;
+  text-decoration: none;
+  margin-right: 20px;
+  border-bottom: 2px solid #fff;
+}
+.Links:focus {
+  color: #fff;
+  font-size: 18px;
+  text-decoration: none;
+  margin-right: 20px;
+  border-bottom: 2px solid #fff;
+}
